@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0e713136-fc57-4f97-9016-60e347907d09" name="fmunoz11" url="http://bootcamp-coders.cnm.edu/~fmunoz11/fmunoz11/">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/fmunoz11/public_html/fmunoz11" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
