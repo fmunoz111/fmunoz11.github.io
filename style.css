@@ -1,6 +1,7 @@
-body {background-color:lavender;
+:root {
+	--newCSSvar: rgba(250,200,180,1.0);
 }
 
-p. a {
-	font-family: Monospaced;
+body {
+	background-color: var(--newCSSvar);
 }
